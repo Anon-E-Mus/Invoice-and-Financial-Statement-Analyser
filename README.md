@@ -9,4 +9,4 @@ MYDRIVE -> FS -> CSV
 MYDRIVE -> FS -> Images 
 
 # Add the PDF file in the following FS folder
-MYDRIVE -> FS -> <PDF file>
+MYDRIVE -> FS -> PDF file
